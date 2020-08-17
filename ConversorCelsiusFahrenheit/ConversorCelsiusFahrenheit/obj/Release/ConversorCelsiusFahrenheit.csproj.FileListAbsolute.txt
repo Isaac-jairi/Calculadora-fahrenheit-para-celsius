@@ -1,0 +1,10 @@
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Release\ConversorCelsiusFahrenheit.exe.config
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Release\ConversorCelsiusFahrenheit.exe
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Release\ConversorCelsiusFahrenheit.pdb
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.csprojAssemblyReference.cache
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.Form1.resources
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.Properties.Resources.resources
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.csproj.GenerateResource.cache
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.exe
+C:\Users\isaac\Documents\Visual Studio 2019\Curso\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Release\ConversorCelsiusFahrenheit.pdb
